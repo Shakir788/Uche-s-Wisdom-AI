@@ -1,0 +1,23 @@
+.header {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.logo {
+    color: #2c3e50;
+}
+
+.chat-container {
+    max-height: 70vh;
+    overflow-y: auto;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+}
+
+.stChatInput {
+    margin-top: 10px !important;
+}
